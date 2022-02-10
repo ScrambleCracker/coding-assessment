@@ -14,6 +14,7 @@
     "datastructures-js": "^10.2.0",
     "express": "^4.17.2",
     "jest": "^27.4.7",
+    "lodash": "^4.17.21",
     "node-fetch": "^3.2.0",
     "wretch": "^1.7.8"
   }
